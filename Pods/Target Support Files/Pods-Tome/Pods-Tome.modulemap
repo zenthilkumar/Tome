@@ -1,0 +1,6 @@
+framework module Pods_Tome {
+  umbrella header "Pods-Tome-umbrella.h"
+
+  export *
+  module * { export * }
+}

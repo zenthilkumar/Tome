@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="12120" systemVersion="16A323" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="12088"/>
+        <capability name="Constraints to layout margins" minToolsVersion="6.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" rowHeight="44" id="HYg-jP-BCU" customClass="BookViewCell" customModule="Tome" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="375" height="44"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="HYg-jP-BCU" id="l2c-NS-pe1">
+                <rect key="frame" x="0.0" y="0.0" width="375" height="43.5"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="osQ-oV-mKn">
+                        <rect key="frame" x="16" y="0.0" width="251" height="44"/>
+                        <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                        <nil key="textColor"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="right" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="uig-UW-ycL">
+                        <rect key="frame" x="277" y="0.0" width="90" height="44"/>
+                        <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                        <connections>
+                            <action selector="ToggleRead:" destination="HYg-jP-BCU" eventType="touchUpInside" id="ZiX-O6-aB2"/>
+                        </connections>
+                    </button>
+                </subviews>
+                <constraints>
+                    <constraint firstAttribute="trailingMargin" secondItem="uig-UW-ycL" secondAttribute="trailing" id="3nQ-ft-cZl"/>
+                    <constraint firstAttribute="bottomMargin" secondItem="osQ-oV-mKn" secondAttribute="bottom" constant="-8.5" id="5KF-Ob-jNs"/>
+                    <constraint firstItem="uig-UW-ycL" firstAttribute="top" secondItem="l2c-NS-pe1" secondAttribute="topMargin" constant="-8" id="CT8-Ob-FCA"/>
+                    <constraint firstItem="uig-UW-ycL" firstAttribute="leading" secondItem="osQ-oV-mKn" secondAttribute="trailing" constant="10" id="JGx-mb-pTc"/>
+                    <constraint firstItem="osQ-oV-mKn" firstAttribute="top" secondItem="l2c-NS-pe1" secondAttribute="topMargin" constant="-8" id="Te1-ge-Ckp"/>
+                    <constraint firstAttribute="bottomMargin" secondItem="uig-UW-ycL" secondAttribute="bottom" constant="-8.5" id="UAu-zM-ocb"/>
+                    <constraint firstAttribute="trailingMargin" secondItem="osQ-oV-mKn" secondAttribute="trailing" constant="100" id="gmk-Ui-j6u"/>
+                    <constraint firstItem="osQ-oV-mKn" firstAttribute="leading" secondItem="l2c-NS-pe1" secondAttribute="leadingMargin" constant="8" id="hHo-Ty-rhc"/>
+                </constraints>
+            </tableViewCellContentView>
+            <connections>
+                <outlet property="bookTitle" destination="osQ-oV-mKn" id="CTQ-kP-Gd1"/>
+                <outlet property="toggleRead" destination="uig-UW-ycL" id="uyC-tS-zro"/>
+            </connections>
+            <point key="canvasLocation" x="58.5" y="101"/>
+        </tableViewCell>
+    </objects>
+</document>

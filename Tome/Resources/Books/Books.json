@@ -1,0 +1,733 @@
+{
+    "kind": "books#volumes",
+    "totalItems": 5933,
+    "items": [
+              {
+              "kind": "books#volume",
+              "id": "bWhH1fjliCwC",
+              "etag": "O5XQotanuTE",
+              "selfLink": "https://www.googleapis.com/books/v1/volumes/bWhH1fjliCwC",
+              "volumeInfo": {
+              "title": "Wellington",
+              "subtitle": "A City for Sculpture",
+              "authors": [
+                          "Jenny Harper",
+                          "Aaron Lister"
+                          ],
+              "publisher": "Victoria University Press",
+              "publishedDate": "2007",
+              "description": "Featuring brilliant urban photography, this celebration of the dynamic presence of sculpture in Wellington vividly captures more than 40 sculptures throughout the city’s streets and parks. An informative and provocative examination of the sculptures' origins, this collection shows how many of the gorgeous art works came into being due to the shared vision of individuals, government agencies, and corporations who value the relationship of art and city, to brighten the lives of its citizens. The result is both a visual feast and a unique record of the 21st-century city’s fabric—sure to be treasured by travelers, art enthusiasts, and locals alike.",
+              "industryIdentifiers": [
+                                      {
+                                      "type": "ISBN_10",
+                                      "identifier": "0864735707"
+                                      },
+                                      {
+                                      "type": "ISBN_13",
+                                      "identifier": "9780864735706"
+                                      }
+                                      ],
+              "readingModes": {
+              "text": false,
+              "image": true
+              },
+              "pageCount": 144,
+              "printType": "BOOK",
+              "categories": [
+                             "Art"
+                             ],
+              "maturityRating": "NOT_MATURE",
+              "allowAnonLogging": false,
+              "contentVersion": "0.0.1.0.preview.1",
+              "imageLinks": {
+              "smallThumbnail": "http://books.google.com/books/content?id=bWhH1fjliCwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "thumbnail": "http://books.google.com/books/content?id=bWhH1fjliCwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              },
+              "language": "en",
+              "previewLink": "http://books.google.co.in/books?id=bWhH1fjliCwC&printsec=frontcover&dq=a&hl=&cd=1&source=gbs_api",
+              "infoLink": "http://books.google.co.in/books?id=bWhH1fjliCwC&dq=a&hl=&source=gbs_api",
+              "canonicalVolumeLink": "https://books.google.com/books/about/Wellington.html?hl=&id=bWhH1fjliCwC"
+              },
+              "saleInfo": {
+              "country": "IN",
+              "saleability": "NOT_FOR_SALE",
+              "isEbook": false
+              },
+              "accessInfo": {
+              "country": "IN",
+              "viewability": "PARTIAL",
+              "embeddable": true,
+              "publicDomain": false,
+              "textToSpeechPermission": "ALLOWED",
+              "epub": {
+              "isAvailable": false
+              },
+              "pdf": {
+              "isAvailable": false
+              },
+              "webReaderLink": "http://play.google.com/books/reader?id=bWhH1fjliCwC&hl=&printsec=frontcover&source=gbs_api",
+              "accessViewStatus": "SAMPLE",
+              "quoteSharingAllowed": false
+              },
+              "searchInfo": {
+              "textSnippet": "An informative and provocative examination of the sculptures&#39; origins, this collection shows how many of the gorgeous art works came into being due to the shared vision of individuals, government agencies, and corporations who value the ..."
+              }
+              },
+              {
+              "kind": "books#volume",
+              "id": "FZJxg8gQThoC",
+              "etag": "PjaKRF8pimg",
+              "selfLink": "https://www.googleapis.com/books/v1/volumes/FZJxg8gQThoC",
+              "volumeInfo": {
+              "title": "Peace As a Women's Issue",
+              "subtitle": "A History of the U.S. Movement for World Peace and Women's Rights",
+              "authors": [
+                          "Harriet Hyman Alonso"
+                          ],
+              "publisher": "Syracuse University Press",
+              "publishedDate": "1993",
+              "description": "A history of the ideologies and personalities of the feminist peace movement in the US. This study explores: connections between militarism and violence against women; women as the mothers of society; women as naturally responsible citizens; and the desire to be independent of male control.",
+              "industryIdentifiers": [
+                                      {
+                                      "type": "ISBN_10",
+                                      "identifier": "0815602693"
+                                      },
+                                      {
+                                      "type": "ISBN_13",
+                                      "identifier": "9780815602699"
+                                      }
+                                      ],
+              "readingModes": {
+              "text": true,
+              "image": true
+              },
+              "pageCount": 340,
+              "printType": "BOOK",
+              "categories": [
+                             "Political Science"
+                             ],
+              "maturityRating": "NOT_MATURE",
+              "allowAnonLogging": true,
+              "contentVersion": "0.0.3.0.preview.3",
+              "imageLinks": {
+              "smallThumbnail": "http://books.google.com/books/content?id=FZJxg8gQThoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "thumbnail": "http://books.google.com/books/content?id=FZJxg8gQThoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              },
+              "language": "en",
+              "previewLink": "http://books.google.co.in/books?id=FZJxg8gQThoC&printsec=frontcover&dq=a&hl=&cd=2&source=gbs_api",
+              "infoLink": "http://books.google.co.in/books?id=FZJxg8gQThoC&dq=a&hl=&source=gbs_api",
+              "canonicalVolumeLink": "https://books.google.com/books/about/Peace_As_a_Women_s_Issue.html?hl=&id=FZJxg8gQThoC"
+              },
+              "saleInfo": {
+              "country": "IN",
+              "saleability": "NOT_FOR_SALE",
+              "isEbook": false
+              },
+              "accessInfo": {
+              "country": "IN",
+              "viewability": "PARTIAL",
+              "embeddable": true,
+              "publicDomain": false,
+              "textToSpeechPermission": "ALLOWED",
+              "epub": {
+              "isAvailable": true,
+              "acsTokenLink": "http://books.google.co.in/books/download/Peace_As_a_Women_s_Issue-sample-epub.acsm?id=FZJxg8gQThoC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+              },
+              "pdf": {
+              "isAvailable": true,
+              "acsTokenLink": "http://books.google.co.in/books/download/Peace_As_a_Women_s_Issue-sample-pdf.acsm?id=FZJxg8gQThoC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+              },
+              "webReaderLink": "http://play.google.com/books/reader?id=FZJxg8gQThoC&hl=&printsec=frontcover&source=gbs_api",
+              "accessViewStatus": "SAMPLE",
+              "quoteSharingAllowed": false
+              },
+              "searchInfo": {
+              "textSnippet": "A history of the ideologies and personalities of the feminist peace movement in the US. This study explores: connections between militarism and violence against women; women as the mothers of society; women as naturally responsible citizens ..."
+              }
+              },
+              {
+              "kind": "books#volume",
+              "id": "7LPNHRUlWacC",
+              "etag": "ux61Ok3ozDU",
+              "selfLink": "https://www.googleapis.com/books/v1/volumes/7LPNHRUlWacC",
+              "volumeInfo": {
+              "title": "Remus",
+              "subtitle": "A Roman Myth",
+              "authors": [
+                          "Timothy Peter Wiseman"
+                          ],
+              "publisher": "Cambridge University Press",
+              "publishedDate": "1995-08-25",
+              "description": "This is an account of the foundation legend of Rome, how the twins Remus and Romulus were miraculously suckled by a she-wolf, and how Romulus founded Rome and Remus was killed at the moment of the foundation. What does the story mean? Why have a twin, if he has to be killed off? This is the first historical analysis of the origins and development of the myth, and it offers important insights into the nature of pre-imperial Rome and the ways in which myths could be created and elaborated in a nonliterate society.",
+              "industryIdentifiers": [
+                                      {
+                                      "type": "ISBN_10",
+                                      "identifier": "0521483662"
+                                      },
+                                      {
+                                      "type": "ISBN_13",
+                                      "identifier": "9780521483667"
+                                      }
+                                      ],
+              "readingModes": {
+              "text": false,
+              "image": true
+              },
+              "pageCount": 243,
+              "printType": "BOOK",
+              "categories": [
+                             "History"
+                             ],
+              "maturityRating": "NOT_MATURE",
+              "allowAnonLogging": false,
+              "contentVersion": "1.0.1.0.preview.1",
+              "imageLinks": {
+              "smallThumbnail": "http://books.google.com/books/content?id=7LPNHRUlWacC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "thumbnail": "http://books.google.com/books/content?id=7LPNHRUlWacC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              },
+              "language": "en",
+              "previewLink": "http://books.google.co.in/books?id=7LPNHRUlWacC&printsec=frontcover&dq=a&hl=&cd=3&source=gbs_api",
+              "infoLink": "http://books.google.co.in/books?id=7LPNHRUlWacC&dq=a&hl=&source=gbs_api",
+              "canonicalVolumeLink": "https://books.google.com/books/about/Remus.html?hl=&id=7LPNHRUlWacC"
+              },
+              "saleInfo": {
+              "country": "IN",
+              "saleability": "NOT_FOR_SALE",
+              "isEbook": false
+              },
+              "accessInfo": {
+              "country": "IN",
+              "viewability": "PARTIAL",
+              "embeddable": true,
+              "publicDomain": false,
+              "textToSpeechPermission": "ALLOWED",
+              "epub": {
+              "isAvailable": false
+              },
+              "pdf": {
+              "isAvailable": false
+              },
+              "webReaderLink": "http://play.google.com/books/reader?id=7LPNHRUlWacC&hl=&printsec=frontcover&source=gbs_api",
+              "accessViewStatus": "SAMPLE",
+              "quoteSharingAllowed": false
+              },
+              "searchInfo": {
+              "textSnippet": "This is an account of the foundation legend of Rome, how the twins Remus and Romulus were miraculously suckled by a she-wolf, and how Romulus founded Rome and Remus was killed at the moment of the foundation. What does the story mean?"
+              }
+              },
+              {
+              "kind": "books#volume",
+              "id": "beImvXUGD-MC",
+              "etag": "fnDGAYUTNXQ",
+              "selfLink": "https://www.googleapis.com/books/v1/volumes/beImvXUGD-MC",
+              "volumeInfo": {
+              "title": "A Mathematician's Apology",
+              "authors": [
+                          "G. H. Hardy"
+                          ],
+              "publisher": "Cambridge University Press",
+              "publishedDate": "1992-01-31",
+              "description": "G. H. Hardy was one of this century's finest mathematical thinkers, renowned among his contemporaries as a 'real mathematician ... the purest of the pure'. He was also, as C. P. Snow recounts in his Foreword, 'unorthodox, eccentric, radical, ready to talk about anything'. This 'apology', written in 1940 as his mathematical powers were declining, offers a brilliant and engaging account of mathematics as very much more than a science; when it was first published, Graham Greene hailed it alongside Henry James's notebooks as 'the best account of what it was like to be a creative artist'. C. P. Snow's Foreword gives sympathetic and witty insights into Hardy's life, with its rich store of anecdotes concerning his collaboration with the brilliant Indian mathematician Ramanujan, his aphorisms and idiosyncrasies, and his passion for cricket. This is a unique account of the fascination of mathematics and of one of its most compelling exponents in modern times.",
+              "industryIdentifiers": [
+                                      {
+                                      "type": "ISBN_10",
+                                      "identifier": "0521427061"
+                                      },
+                                      {
+                                      "type": "ISBN_13",
+                                      "identifier": "9780521427067"
+                                      }
+                                      ],
+              "readingModes": {
+              "text": false,
+              "image": true
+              },
+              "pageCount": 153,
+              "printType": "BOOK",
+              "categories": [
+                             "Mathematics"
+                             ],
+              "averageRating": 4.5,
+              "ratingsCount": 10,
+              "maturityRating": "NOT_MATURE",
+              "allowAnonLogging": false,
+              "contentVersion": "preview-1.0.0",
+              "imageLinks": {
+              "smallThumbnail": "http://books.google.com/books/content?id=beImvXUGD-MC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "thumbnail": "http://books.google.com/books/content?id=beImvXUGD-MC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              },
+              "language": "en",
+              "previewLink": "http://books.google.co.in/books?id=beImvXUGD-MC&printsec=frontcover&dq=a&hl=&cd=4&source=gbs_api",
+              "infoLink": "http://books.google.co.in/books?id=beImvXUGD-MC&dq=a&hl=&source=gbs_api",
+              "canonicalVolumeLink": "https://books.google.com/books/about/A_Mathematician_s_Apology.html?hl=&id=beImvXUGD-MC"
+              },
+              "saleInfo": {
+              "country": "IN",
+              "saleability": "NOT_FOR_SALE",
+              "isEbook": false
+              },
+              "accessInfo": {
+              "country": "IN",
+              "viewability": "PARTIAL",
+              "embeddable": true,
+              "publicDomain": false,
+              "textToSpeechPermission": "ALLOWED",
+              "epub": {
+              "isAvailable": false
+              },
+              "pdf": {
+              "isAvailable": false
+              },
+              "webReaderLink": "http://play.google.com/books/reader?id=beImvXUGD-MC&hl=&printsec=frontcover&source=gbs_api",
+              "accessViewStatus": "SAMPLE",
+              "quoteSharingAllowed": false
+              },
+              "searchInfo": {
+              "textSnippet": "This is a unique account of the fascination of mathematics and of one of its most compelling exponents in modern times."
+              }
+              },
+              {
+              "kind": "books#volume",
+              "id": "tdj3juvD9KcC",
+              "etag": "ONkof3BNM6E",
+              "selfLink": "https://www.googleapis.com/books/v1/volumes/tdj3juvD9KcC",
+              "volumeInfo": {
+              "title": "A Strategy of Change",
+              "subtitle": "Concepts and Controversies in the Management of Change",
+              "authors": [
+                          "David C. Wilson"
+                          ],
+              "publisher": "Cengage Learning EMEA",
+              "publishedDate": "1992",
+              "description": "A Strategy of Change provides a critical appraisal of current ideas about ‘organizational culture’, ‘total quality management’, ‘flexibility’, and ‘excellence’, drawing upon case material from a wide range of different organizational settings. This practical, issue-centred approach contrasts with the functionally oriented way in which management is often taught in the classroom and reflects instead the real needs of future managers and managers who have to work and communicate on a cross-functional basis. Dealing in an integrated way with the full spectrum of strategic change issues, this book provides an important tool for all those concerned with strategic change issues and organizational survival in today’s changing environment.",
+              "industryIdentifiers": [
+                                      {
+                                      "type": "ISBN_10",
+                                      "identifier": "1861523831"
+                                      },
+                                      {
+                                      "type": "ISBN_13",
+                                      "identifier": "9781861523839"
+                                      }
+                                      ],
+              "readingModes": {
+              "text": false,
+              "image": true
+              },
+              "pageCount": 160,
+              "printType": "BOOK",
+              "categories": [
+                             "Organizational change"
+                             ],
+              "maturityRating": "NOT_MATURE",
+              "allowAnonLogging": false,
+              "contentVersion": "preview-1.0.0",
+              "imageLinks": {
+              "smallThumbnail": "http://books.google.com/books/content?id=tdj3juvD9KcC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "thumbnail": "http://books.google.com/books/content?id=tdj3juvD9KcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              },
+              "language": "en",
+              "previewLink": "http://books.google.co.in/books?id=tdj3juvD9KcC&printsec=frontcover&dq=a&hl=&cd=5&source=gbs_api",
+              "infoLink": "http://books.google.co.in/books?id=tdj3juvD9KcC&dq=a&hl=&source=gbs_api",
+              "canonicalVolumeLink": "https://books.google.com/books/about/A_Strategy_of_Change.html?hl=&id=tdj3juvD9KcC"
+              },
+              "saleInfo": {
+              "country": "IN",
+              "saleability": "NOT_FOR_SALE",
+              "isEbook": false
+              },
+              "accessInfo": {
+              "country": "IN",
+              "viewability": "PARTIAL",
+              "embeddable": true,
+              "publicDomain": false,
+              "textToSpeechPermission": "ALLOWED",
+              "epub": {
+              "isAvailable": false
+              },
+              "pdf": {
+              "isAvailable": false
+              },
+              "webReaderLink": "http://play.google.com/books/reader?id=tdj3juvD9KcC&hl=&printsec=frontcover&source=gbs_api",
+              "accessViewStatus": "SAMPLE",
+              "quoteSharingAllowed": false
+              },
+              "searchInfo": {
+              "textSnippet": "Dealing in an integrated way with the full spectrum of strategic change issues, this book provides an important tool for all those concerned with strategic change issues and organizational survival in today&#39;s changing environment."
+              }
+              },
+              {
+              "kind": "books#volume",
+              "id": "45uJxCwEs4MC",
+              "etag": "iU4vv1O5PXQ",
+              "selfLink": "https://www.googleapis.com/books/v1/volumes/45uJxCwEs4MC",
+              "volumeInfo": {
+              "title": "A Necessary Luxury",
+              "subtitle": "Tea in Victorian England",
+              "authors": [
+                          "Julie E. Fromer"
+                          ],
+              "publisher": "Ohio University Press",
+              "publishedDate": "2008",
+              "description": "In A Necessary Luxury: Tea in Victorian England, Julie E. Fromer analyzes tea histories, advertisements, and nine Victorian novels, including Alice's Adventures in Wonderland, Wuthering Heights, and Portrait of a Lady. Drawing from the fields of literary studies, cultural studies, history, and anthropology, A Necessary Luxury offers in-depth analysis of both visual and textual representations of the commodity and the ritual that was tea in nineteenth-century England.",
+              "industryIdentifiers": [
+                                      {
+                                      "type": "ISBN_13",
+                                      "identifier": "9780821418284"
+                                      },
+                                      {
+                                      "type": "ISBN_10",
+                                      "identifier": "0821418289"
+                                      }
+                                      ],
+              "readingModes": {
+              "text": true,
+              "image": true
+              },
+              "pageCount": 375,
+              "printType": "BOOK",
+              "categories": [
+                             "Cooking"
+                             ],
+              "maturityRating": "NOT_MATURE",
+              "allowAnonLogging": false,
+              "contentVersion": "0.0.1.0.preview.3",
+              "imageLinks": {
+              "smallThumbnail": "http://books.google.com/books/content?id=45uJxCwEs4MC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "thumbnail": "http://books.google.com/books/content?id=45uJxCwEs4MC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              },
+              "language": "en",
+              "previewLink": "http://books.google.co.in/books?id=45uJxCwEs4MC&printsec=frontcover&dq=a&hl=&cd=6&source=gbs_api",
+              "infoLink": "http://books.google.co.in/books?id=45uJxCwEs4MC&dq=a&hl=&source=gbs_api",
+              "canonicalVolumeLink": "https://books.google.com/books/about/A_Necessary_Luxury.html?hl=&id=45uJxCwEs4MC"
+              },
+              "saleInfo": {
+              "country": "IN",
+              "saleability": "NOT_FOR_SALE",
+              "isEbook": false
+              },
+              "accessInfo": {
+              "country": "IN",
+              "viewability": "PARTIAL",
+              "embeddable": true,
+              "publicDomain": false,
+              "textToSpeechPermission": "ALLOWED",
+              "epub": {
+              "isAvailable": true,
+              "acsTokenLink": "http://books.google.co.in/books/download/A_Necessary_Luxury-sample-epub.acsm?id=45uJxCwEs4MC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+              },
+              "pdf": {
+              "isAvailable": true,
+              "acsTokenLink": "http://books.google.co.in/books/download/A_Necessary_Luxury-sample-pdf.acsm?id=45uJxCwEs4MC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+              },
+              "webReaderLink": "http://play.google.com/books/reader?id=45uJxCwEs4MC&hl=&printsec=frontcover&source=gbs_api",
+              "accessViewStatus": "SAMPLE",
+              "quoteSharingAllowed": false
+              },
+              "searchInfo": {
+              "textSnippet": "In A Necessary Luxury: Tea in Victorian England, Julie E. Fromer analyzes tea histories, advertisements, and nine Victorian novels, including Alice&#39;s Adventures in Wonderland, Wuthering Heights, and Portrait of a Lady."
+              }
+              },
+              {
+              "kind": "books#volume",
+              "id": "dbq6fkyp698C",
+              "etag": "iCSip35I0+g",
+              "selfLink": "https://www.googleapis.com/books/v1/volumes/dbq6fkyp698C",
+              "volumeInfo": {
+              "title": "A History of Christianity in Asia, Africa, and Latin America, 1450-1990",
+              "subtitle": "A Documentary Sourcebook",
+              "authors": [
+                          "Klaus Koschorke",
+                          "Frieder Ludwig",
+                          "Mariano Delgado",
+                          "Roland Spliesgart"
+                          ],
+              "publisher": "Wm. B. Eerdmans Publishing",
+              "publishedDate": "2007-09-14",
+              "description": "The map of world Christianity has changed dramatically, with a large number of Christians living in Africa, Asia, and Latin America. This text is a comparative documentary history of Christianity for these regions covering the period 1450-1990.",
+              "industryIdentifiers": [
+                                      {
+                                      "type": "ISBN_13",
+                                      "identifier": "9780802828897"
+                                      },
+                                      {
+                                      "type": "ISBN_10",
+                                      "identifier": "0802828892"
+                                      }
+                                      ],
+              "readingModes": {
+              "text": false,
+              "image": true
+              },
+              "pageCount": 426,
+              "printType": "BOOK",
+              "categories": [
+                             "Religion"
+                             ],
+              "averageRating": 5.0,
+              "ratingsCount": 1,
+              "maturityRating": "NOT_MATURE",
+              "allowAnonLogging": true,
+              "contentVersion": "preview-1.0.0",
+              "panelizationSummary": {
+              "containsEpubBubbles": false,
+              "containsImageBubbles": false
+              },
+              "imageLinks": {
+              "smallThumbnail": "http://books.google.com/books/content?id=dbq6fkyp698C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "thumbnail": "http://books.google.com/books/content?id=dbq6fkyp698C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              },
+              "language": "en",
+              "previewLink": "http://books.google.co.in/books?id=dbq6fkyp698C&printsec=frontcover&dq=a&hl=&cd=7&source=gbs_api",
+              "infoLink": "http://books.google.co.in/books?id=dbq6fkyp698C&dq=a&hl=&source=gbs_api",
+              "canonicalVolumeLink": "https://books.google.com/books/about/A_History_of_Christianity_in_Asia_Africa.html?hl=&id=dbq6fkyp698C"
+              },
+              "saleInfo": {
+              "country": "IN",
+              "saleability": "NOT_FOR_SALE",
+              "isEbook": false
+              },
+              "accessInfo": {
+              "country": "IN",
+              "viewability": "PARTIAL",
+              "embeddable": true,
+              "publicDomain": false,
+              "textToSpeechPermission": "ALLOWED",
+              "epub": {
+              "isAvailable": false
+              },
+              "pdf": {
+              "isAvailable": true,
+              "acsTokenLink": "http://books.google.co.in/books/download/A_History_of_Christianity_in_Asia_Africa-sample-pdf.acsm?id=dbq6fkyp698C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+              },
+              "webReaderLink": "http://play.google.com/books/reader?id=dbq6fkyp698C&hl=&printsec=frontcover&source=gbs_api",
+              "accessViewStatus": "SAMPLE",
+              "quoteSharingAllowed": false
+              },
+              "searchInfo": {
+              "textSnippet": "This text is a comparative documentary history of Christianity for these regions covering the period 1450-1990. e~In this significant book, two scholars with a deep understanding of the Labour Party have explored the eoemythe of eoeLabour ..."
+              }
+              },
+              {
+              "kind": "books#volume",
+              "id": "f52rawP96lYC",
+              "etag": "9P8XiHaGmd4",
+              "selfLink": "https://www.googleapis.com/books/v1/volumes/f52rawP96lYC",
+              "volumeInfo": {
+              "title": "A European Memory?",
+              "subtitle": "Contested Histories and Politics of Remembrance",
+              "authors": [
+                          "Małgorzata Pakier",
+                          "Bo Stråth"
+                          ],
+              "publisher": "Berghahn Books",
+              "publishedDate": "2010",
+              "description": "\"As the most comprehensive scholarly venture to use the memory concept for a broad assessment of the dark legacies of Nazism, Communism, and World War II for a common European identity, the volume has no equal. It overwhelms the reader with a plethora of both new and well established information and reflection...The overall direction coincides with the current trend towards internationalization of national histories. It can be considered a strong contribution to this important and worthwhile trend.\" . Frank Trommler, University of Pennsylvania An examination of the role of history and memory is vital in order to better understand why the grand design of a United Europe-with a common foreign policy and market yet enough diversity to allow for cultural and social differences-was overwhelmingly turned down by its citizens. The authors argue that this rejection of the European constitution was to a certain extent a challenge to the current historical grounding used for further integration and further demonstrates the lack of understanding by European bureaucrats of the historical complexity and divisiveness of Europe's past. A critical European history is therefore urgently needed to confront and re-imagine Europe, not as a harmonious continent but as the outcome of violent and bloody conflicts, both within Europe as well as with its Others. As the authors show, these dark shadows of Europe's past must be integrated, and the fact that memories of Europe are contested must be accepted if any new attempts at a United Europe are to be successful. Ma gorzata Pakier has recently received a PhD from the European University Institute in Florence, Department of History and Civilization. She has published articles in Polish and English on discourses and images of the Holocaust in popular culture and film. Bo Strath was Professor of Contemporary History at the European University Institute in Florence (1997-2007) and is currently Academy of Finland Distinguished Professor of Nordic, European and World History at Helsinki University. His research concentrates on questions of modernity and the use of history in a European and global perspective.\"",
+              "industryIdentifiers": [
+                                      {
+                                      "type": "ISBN_10",
+                                      "identifier": "1845456211"
+                                      },
+                                      {
+                                      "type": "ISBN_13",
+                                      "identifier": "9781845456214"
+                                      }
+                                      ],
+              "readingModes": {
+              "text": true,
+              "image": true
+              },
+              "pageCount": 356,
+              "printType": "BOOK",
+              "categories": [
+                             "History"
+                             ],
+              "maturityRating": "NOT_MATURE",
+              "allowAnonLogging": false,
+              "contentVersion": "0.0.2.0.preview.3",
+              "panelizationSummary": {
+              "containsEpubBubbles": false,
+              "containsImageBubbles": false
+              },
+              "imageLinks": {
+              "smallThumbnail": "http://books.google.com/books/content?id=f52rawP96lYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "thumbnail": "http://books.google.com/books/content?id=f52rawP96lYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              },
+              "language": "en",
+              "previewLink": "http://books.google.co.in/books?id=f52rawP96lYC&printsec=frontcover&dq=a&hl=&cd=8&source=gbs_api",
+              "infoLink": "http://books.google.co.in/books?id=f52rawP96lYC&dq=a&hl=&source=gbs_api",
+              "canonicalVolumeLink": "https://books.google.com/books/about/A_European_Memory.html?hl=&id=f52rawP96lYC"
+              },
+              "saleInfo": {
+              "country": "IN",
+              "saleability": "NOT_FOR_SALE",
+              "isEbook": false
+              },
+              "accessInfo": {
+              "country": "IN",
+              "viewability": "PARTIAL",
+              "embeddable": true,
+              "publicDomain": false,
+              "textToSpeechPermission": "ALLOWED",
+              "epub": {
+              "isAvailable": true,
+              "acsTokenLink": "http://books.google.co.in/books/download/A_European_Memory-sample-epub.acsm?id=f52rawP96lYC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+              },
+              "pdf": {
+              "isAvailable": true,
+              "acsTokenLink": "http://books.google.co.in/books/download/A_European_Memory-sample-pdf.acsm?id=f52rawP96lYC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+              },
+              "webReaderLink": "http://play.google.com/books/reader?id=f52rawP96lYC&hl=&printsec=frontcover&source=gbs_api",
+              "accessViewStatus": "SAMPLE",
+              "quoteSharingAllowed": false
+              },
+              "searchInfo": {
+              "textSnippet": "An examination of the role of history and memory is vital in order to better understand why the grand design of a United Europe-with a common foreign policy and market yet enough diversity to allow for cultural and social differences-was ..."
+              }
+              },
+              {
+              "kind": "books#volume",
+              "id": "6LJbIWnNpOkC",
+              "etag": "OOMwrD6thZc",
+              "selfLink": "https://www.googleapis.com/books/v1/volumes/6LJbIWnNpOkC",
+              "volumeInfo": {
+              "title": "A Million Little Pieces",
+              "authors": [
+                          "James Frey"
+                          ],
+              "publisher": "Rutgers University Press",
+              "publishedDate": "2003-04-15",
+              "description": "Intense, unpredictable, and instantly engaging, A Million Little Pieces is a story of drug and alcohol abuse and rehabilitation as it has never been told before. Recounted in visceral, kinetic prose, and crafted with a forthrightness that rejects piety, cynicism, and self-pity, it brings us face-to-face with a provocative new understanding of the nature of addiction and the meaning of recovery. By the time he entered a drug and alcohol treatment facility, James Frey had taken his addictions to near-deadly extremes. He had so thoroughly ravaged his body that the facilityís doctors were shocked he was still alive. The ensuing torments of detoxification and withdrawal, and the never-ending urge to use chemicals, are captured with a vitality and directness that recalls the seminal eye-opening power of William Burroughsís Junky. But A Million Little Pieces refuses to fit any mold of drug literature. Inside the clinic, James is surrounded by patients as troubled as he is -- including a judge, a mobster, a one-time world-champion boxer, and a fragile former prostitute to whom he is not allowed to speak ó but their friendship and advice strikes James as stronger and truer than the clinicís droning dogma of How to Recover. James refuses to consider himself a victim of anything but his own bad decisions, and insists on accepting sole accountability for the person he has been and the person he may become--which runs directly counter to his counselors' recipes for recovery. James has to fight to find his own way to confront the consequences of the life he has lived so far, and to determine what future, if any, he holds. It is this fight, told with the charismatic energy and power of One Flew over the Cuckoo's Nest, that is at the heart of A Million Little Pieces: the fight between one young manís will and the ever-tempting chemical trip to oblivion, the fight to survive on his own terms, for reasons close to his own heart. A Million Little Pieces is an uncommonly genuine account of a life destroyed and a life reconstructed. It is also the introduction of a bold and talented literary voice.",
+              "industryIdentifiers": [
+                                      {
+                                      "type": "ISBN_10",
+                                      "identifier": "0385508840"
+                                      },
+                                      {
+                                      "type": "ISBN_13",
+                                      "identifier": "9780385508841"
+                                      }
+                                      ],
+              "readingModes": {
+              "text": true,
+              "image": true
+              },
+              "pageCount": 352,
+              "printType": "BOOK",
+              "categories": [
+                             "Biography & Autobiography"
+                             ],
+              "averageRating": 3.5,
+              "ratingsCount": 221,
+              "maturityRating": "NOT_MATURE",
+              "allowAnonLogging": false,
+              "contentVersion": "0.0.1.0.preview.3",
+              "imageLinks": {
+              "smallThumbnail": "http://books.google.com/books/content?id=6LJbIWnNpOkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "thumbnail": "http://books.google.com/books/content?id=6LJbIWnNpOkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              },
+              "language": "en",
+              "previewLink": "http://books.google.co.in/books?id=6LJbIWnNpOkC&printsec=frontcover&dq=a&hl=&cd=9&source=gbs_api",
+              "infoLink": "http://books.google.co.in/books?id=6LJbIWnNpOkC&dq=a&hl=&source=gbs_api",
+              "canonicalVolumeLink": "https://books.google.com/books/about/A_Million_Little_Pieces.html?hl=&id=6LJbIWnNpOkC"
+              },
+              "saleInfo": {
+              "country": "IN",
+              "saleability": "NOT_FOR_SALE",
+              "isEbook": false
+              },
+              "accessInfo": {
+              "country": "IN",
+              "viewability": "PARTIAL",
+              "embeddable": true,
+              "publicDomain": false,
+              "textToSpeechPermission": "ALLOWED",
+              "epub": {
+              "isAvailable": true,
+              "acsTokenLink": "http://books.google.co.in/books/download/A_Million_Little_Pieces-sample-epub.acsm?id=6LJbIWnNpOkC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+              },
+              "pdf": {
+              "isAvailable": true,
+              "acsTokenLink": "http://books.google.co.in/books/download/A_Million_Little_Pieces-sample-pdf.acsm?id=6LJbIWnNpOkC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+              },
+              "webReaderLink": "http://play.google.com/books/reader?id=6LJbIWnNpOkC&hl=&printsec=frontcover&source=gbs_api",
+              "accessViewStatus": "SAMPLE",
+              "quoteSharingAllowed": false
+              },
+              "searchInfo": {
+              "textSnippet": "But A Million Little Pieces refuses to fit any mold of drug literature."
+              }
+              },
+              {
+              "kind": "books#volume",
+              "id": "WzlDQLi_D8IC",
+              "etag": "4T1l81YmDGE",
+              "selfLink": "https://www.googleapis.com/books/v1/volumes/WzlDQLi_D8IC",
+              "volumeInfo": {
+              "title": "Lying Up a Nation",
+              "subtitle": "Race and Black Music",
+              "authors": [
+                          "Ronald M. Radano"
+                          ],
+              "publisher": "University of Chicago Press",
+              "publishedDate": "2003-11-01",
+              "description": "What is black music? For some it is a unique expression of the African-American experience, its soulful vocals and stirring rhythms forged in the fires of black resistance in response to centuries of oppression. But as Ronald Radano argues in this bracing work, the whole idea of black music has a much longer and more complicated history-one that speaks as much of musical and racial integration as it does of separation.",
+              "industryIdentifiers": [
+                                      {
+                                      "type": "ISBN_10",
+                                      "identifier": "0226701972"
+                                      },
+                                      {
+                                      "type": "ISBN_13",
+                                      "identifier": "9780226701974"
+                                      }
+                                      ],
+              "readingModes": {
+              "text": true,
+              "image": true
+              },
+              "pageCount": 417,
+              "printType": "BOOK",
+              "categories": [
+                             "Music"
+                             ],
+              "maturityRating": "NOT_MATURE",
+              "allowAnonLogging": false,
+              "contentVersion": "1.0.2.0.preview.3",
+              "imageLinks": {
+              "smallThumbnail": "http://books.google.com/books/content?id=WzlDQLi_D8IC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "thumbnail": "http://books.google.com/books/content?id=WzlDQLi_D8IC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              },
+              "language": "en",
+              "previewLink": "http://books.google.co.in/books?id=WzlDQLi_D8IC&printsec=frontcover&dq=a&hl=&cd=10&source=gbs_api",
+              "infoLink": "http://books.google.co.in/books?id=WzlDQLi_D8IC&dq=a&hl=&source=gbs_api",
+              "canonicalVolumeLink": "https://books.google.com/books/about/Lying_Up_a_Nation.html?hl=&id=WzlDQLi_D8IC"
+              },
+              "saleInfo": {
+              "country": "IN",
+              "saleability": "NOT_FOR_SALE",
+              "isEbook": false
+              },
+              "accessInfo": {
+              "country": "IN",
+              "viewability": "PARTIAL",
+              "embeddable": true,
+              "publicDomain": false,
+              "textToSpeechPermission": "ALLOWED",
+              "epub": {
+              "isAvailable": true,
+              "acsTokenLink": "http://books.google.co.in/books/download/Lying_Up_a_Nation-sample-epub.acsm?id=WzlDQLi_D8IC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+              },
+              "pdf": {
+              "isAvailable": false
+              },
+              "webReaderLink": "http://play.google.com/books/reader?id=WzlDQLi_D8IC&hl=&printsec=frontcover&source=gbs_api",
+              "accessViewStatus": "SAMPLE",
+              "quoteSharingAllowed": false
+              },
+              "searchInfo": {
+              "textSnippet": "But as Ronald Radano argues in this bracing work, the whole idea of black music has a much longer and more complicated history-one that speaks as much of musical and racial integration as it does of separation."
+              }
+              }
+              ]
+}
